@@ -1,0 +1,3 @@
+My third year internship project on Web Recommender Systems. Its an intelligent trained system to provide users of a database with recommendations on movies, based on heuristics derived from their past ratings, closest neighbourhood, demographic details etc. 
+We use three basic recommendation techniques over here viz. Content based, Collaborative and Demographic. In addition to these we finally use the generated results and combine the three techniques into a hybrid technique of Weighted Recommender system. The whole data set is split into two portions, one of which is used to train the system and predict ratings and the second of which is used to compare the predicted ratings to. 
+The data set used here(MovieLens) can be downloaded for free from grouplens.org/node/73. 
