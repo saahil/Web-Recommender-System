@@ -6,6 +6,7 @@
 #include <stdlib.h>
 
 int main() {
+	//test
 	FILE *ratings, *new_ratings; 
 	int user, movie, rating, time;
 	ratings = fopen("ratings.dat", "r");
